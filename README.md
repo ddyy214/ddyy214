@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?text=Welcome&type=Waving&fontColor=d6ace6)
-<a href="https://www.instagram.com/ddyy214/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=instagram&logoColor=pink"/>
+<a href="https://www.instagram.com/ddyy214/" target="_blank"><img src="https://img.shields.io/badge/instagram-3DDC84?style=flat-square&logo=instagram&logoColor=#E4405F"/>
