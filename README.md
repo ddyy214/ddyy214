@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?text=Welcome&type=Waving&fontColor=d6ace6)
 <a href="https://www.instagram.com/ddyy214/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<a href="https://www.notion.so/ddyy214/ba94fa9f8dc84364b93f25b372a6e2dc" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
